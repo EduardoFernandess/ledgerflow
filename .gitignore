@@ -1,0 +1,25 @@
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.env
+.env.local
+*.sqlite3
+media/
+staticfiles/
+.DS_Store
+.idea/
+.vscode/
+
+# Mentor / educational materials stay local — not shipped to GitHub
+backup/
+*.pdf
